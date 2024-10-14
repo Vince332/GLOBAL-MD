@@ -22,10 +22,10 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 console.log(global.owner);
 
-global.botNumber = '923051391007'; // Put your number here for pairing directly
+global.botNumber = '2348069918096'; // Put your number here for pairing directly
 
 global.mods = ['923444844060'];
-global.prems = ['2348069918096']
+global.prems = ['923444844060']
 global.allowed = ['923444844060']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
