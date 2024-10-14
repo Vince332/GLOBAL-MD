@@ -74,7 +74,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.botname = 'GLOBAL-MD-V3'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = 'GLOBAL BOT'
 global.author = 'GlobalTechInfo'
 global.igfg = 'https://instagram.com/global.techinc'
